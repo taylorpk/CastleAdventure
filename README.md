@@ -1,1 +1,1 @@
-# Castle Adventure is a text-based game written in python. Every time you play, it's different because the monsters are randomized!
+# Castle Adventure is a text-based game that changes every time you play! Choose your own path and hopefully you will make it out alive!
